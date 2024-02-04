@@ -1,0 +1,17 @@
+6d0d884a0b4f603bcde31cb0e64c1d8f *DESCRIPTION
+679da3f174ff8909af9e0c82f4d69951 *NAMESPACE
+e7922ebcf9cb1e6ff6deae988f3d9128 *R/data.R
+67ef0ef6531b738544064f25011aaf8b *R/find_fuzzies.f.R
+b7f9a7dc60a8575fc6f0abf37aca04d9 *R/mfh_collapse.R
+3add54d282ac72a5c8546699ad9bb960 *R/mv.probit.R
+5bf5ec8baefd3f74681254d6d47d7f5f *R/mvcp_est.f.R
+6d13d25e168bec94bf853aef675c2ee0 *R/sysdata.rda
+6be5fda4371fc842908dc64358b286be *data/nmdid.test.rda
+5cf39f9959c746c35d8c9b05efc3ad45 *man/find_fuzzies.f.Rd
+e86c97b0d106d0481e7eb374c736add7 *man/mfh_collapse.Rd
+4b3d862011e97d788fc45090cebcc895 *man/mv.probit.Rd
+3f3bb57ceb2e867f1d7649f7a24c9f62 *man/mvcp_est.f.Rd
+ea065924892bfb45b25212619f6b10b2 *man/nmdid.test.Rd
+4d9ec73eedb871887e7838261bdf5555 *tests/testthat.R
+173c6112c2da15fb296935d57cbc4371 *tests/testthat/test-3row.R
+a8e10147269d27ed3e2ab88d7f047659 *tests/testthat/test-test-1row.R
